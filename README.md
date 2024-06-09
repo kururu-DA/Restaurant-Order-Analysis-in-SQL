@@ -7,7 +7,7 @@ using Mysql workbench to do resturant analysis
 
 Insights:
 People tend to spend more in italian food
-so we have to 
+so should keep this italian dishes in the menu because people seem  to be ordering them a lot.
 
 
 
